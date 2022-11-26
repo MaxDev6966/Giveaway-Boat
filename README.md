@@ -11,7 +11,7 @@ New package: `npm i` and `npm init -y`
 
 **__MADE BY MaxDev6966__**
 
-`SUB TO MaxDev5966`
+`SUB TO MaxDev6966`
 
 `JOIN OUR SERVER FOR MORE UPDATES AND HELP`
 
