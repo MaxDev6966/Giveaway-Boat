@@ -5,6 +5,8 @@ Start: `node index.js`
 New package: `npm i` and `npm init -y`
 # `PROJECT MaxDev6966`
 
+Token and Prefix: adjust in `./config.json`
+
 ☃︎ | Project Owner: MaxDev6966<br>⚠︎ | Do Not Change Any Of The Credits
 
 **__THE BEST GIVEAWAY DISCORD BOT__**
