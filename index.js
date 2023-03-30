@@ -40,7 +40,7 @@ client.login(process.env.TOKEN);
 
 /**********************************************************
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/potatofam
+ * Bot Coded by Just a Potato#5404 | https://dsc.gg/potatofam
  * @INFO
  * Work for Sylanio Development | https://sylanio.xyz
  * @INFO
