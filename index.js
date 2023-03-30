@@ -38,9 +38,12 @@ fs.readdir('./cmds/', (err, files) => {
 
 client.login(process.env.TOKEN);
 
-// require("http").createServer((req, res) => res.end("Put This Link In Uptimerobot ↑")).listen(process.env.PORT || 8080)
-
-
-// Code By MaxGamer
-
-// Code Designed By DEV x R J
+/**********************************************************
+ * @INFO
+ * Bot Coded by Tomato#6966 | https://dsc.gg/potatofam
+ * @INFO
+ * Work for Sylanio Development | https://sylanio.xyz
+ * @INFO
+ * Please mention him / Sylanio Development, when using this Code!
+ * @INFO
+ *********************************************************/
